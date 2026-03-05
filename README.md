@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamh5ZmJsdmljd2w1OWJzaDhwNmR5Y2djMmF4M2JjOGNsdHQwNGduZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGmd6ZU6WGzOasM/giphy.gif" width="40px"> Привет, я Иван Зюзичев!</div>
+# <div align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm45enE3dGw2ODNwNWgxNWFwajltM2tuN2l4MGtnZm1wNzU5NnRtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1RJAqFnCVxZouXSf3N/giphy.gif" width="40px"> Привет, я Иван Зюзичев!</div>
 
 <h3 align="center">Frontend | Fullstack-разработчик</h3>
 

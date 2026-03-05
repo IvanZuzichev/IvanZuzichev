@@ -1,9 +1,9 @@
-# <div align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2dqbm9oc2VnMGNhYWZmcGszOHUzcWtqbTJ5ZjBtdnMzdjE0dDFyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="30px"> Привет, я Иван Зюзичев!</div>
+# <div align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamh5ZmJsdmljd2w1OWJzaDhwNmR5Y2djMmF4M2JjOGNsdHQwNGduZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGmd6ZU6WGzOasM/giphy.gif" width="40px"> Привет, я Иван Зюзичев!</div>
 
 <h3 align="center">Frontend | Fullstack-разработчик</h3>
 
 <p align="center">
-  <img src="./img(20y.o).jpg" width="90%" />
+  <img src="./img(20y.o).jpg" width="60%" />
 </p>
 
 

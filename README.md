@@ -67,7 +67,7 @@ Frontend-разработчик с опытом создания сложных 
 ## Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanZuzichev&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanZuzichev&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ## Контакты

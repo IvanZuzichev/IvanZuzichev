@@ -1,9 +1,9 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Привет, я Иван Зюзичев!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" align="center"> Привет, я Иван Зюзичев!
 
 <h3 align="center">Frontend | Fullstack-разработчик</h3>
 
 <p align="center">
-  <img src="./img(20y.o).jpg" width="100%" />
+  <img src="./img(20y.o).jpg" width="90%" />
 </p>
 
 
@@ -67,11 +67,9 @@ Frontend-разработчик с опытом создания сложных 
 ## Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanZuzichev&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?username=IvanZuzichev&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanZuzichev&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanZuzichev&theme=dark&hide_border=true" width="48%" />
 </p>
-
----
 
 ## Контакты
 

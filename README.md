@@ -3,17 +3,17 @@
 <h3 align="center">Frontend-разработчик</h3>
 
 <p align="center">
-  <img src="./img(21y.o).jpg" width="80%" />
+  <img src="./img(21y.o).jpg" width="70%" />
 </p>
 
 
-### Обо мне
+## Обо мне
 
-Frontend-разработчик с 4-летним опытом. Специализируюсь на **React и TypeScript**, также есть опыт работы с Angular, Vue и JavaScript. Строю продукты, которые решают реальные задачи: от оптимизации производительности до управления командами.
+### Frontend-разработчик с опытом работы с 2022 года. Специализируюсь на **React и TypeScript**, также есть опыт работы с Angular и Vue. Строю продукты, которые решают реальные задачи: от оптимизации производительности до проектирования архитектуры фронтенда.
 
 ## Опыт в Т-Банке
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Т--Банк-FFDD2D?style=for-the-badge&logo=tinkoff&logoColor=black" alt="Т-Банк" />
 </div>
 
@@ -26,7 +26,7 @@ Frontend-разработчик с 4-летним опытом. Специали
 
 ## Технологии
 
-<div>
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
